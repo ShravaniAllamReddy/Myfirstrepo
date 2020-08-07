@@ -17,6 +17,9 @@ header{
 }
 
 h1{
+    margin: 0;
+    margin-bottom: 20px;
+    padding : 15px 0px;
     color: #eee;
     font-size: 28px; 
     text-align: center;
@@ -53,7 +56,9 @@ a{
 }
 
 #bio-image{
+
     float:left;
+    margin-right: 5px;
     padding: 0px 25px 25px 0px;
     width: 200px;
     height: 200px;
